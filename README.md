@@ -5,7 +5,7 @@
 # Soenneker.Blazor.Navigation
 ### A small Blazor WebAssembly library that features navigate back, login/logout, reload and more
 
-Can work side-by-side existing Blazor NavManager usage, and still work with navigate back
+Can work side-by-side existing Blazor [NavigationManager](https://learn.microsoft.com/en-us/aspnet/core/blazor/fundamentals/routing?view=aspnetcore-7.0) usage, and still work with navigate back
 
 ## Installation
 
