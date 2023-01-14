@@ -50,7 +50,7 @@ public class NavigationUtil : INavigationUtil
         _navigationManager.NavigateTo(backPageUrl);
     }
 
-    public void Login(string loginPath)
+    public void Login(string loginPath = "authentication/login")
     {
         _navigationManager.NavigateToLogin(loginPath);
     }
